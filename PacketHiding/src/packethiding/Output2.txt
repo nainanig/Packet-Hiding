@@ -1,0 +1,6 @@
+Packet-Hiding Methods for Preventing Selective Jamming Attacks
+Abstract
+--------
+The open nature of the wireless medium leaves it vulnerable to intentional interference attacks, typically referred to as jamming.
+This intentional interference with wireless transmissions can be used as a launchpad for mounting Denial-of-Service attacks on wireless
+networks. Typically, jamming has been addressed under an external threat model. 
